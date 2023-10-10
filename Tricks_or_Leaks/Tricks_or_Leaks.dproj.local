@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/07 15:41:44.772,=C:\Users\abpau\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/07 15:59:32.479,C:\DEVPIRA Hallowen CodeFest\Tricks_or_Leaks\Principal.dfm=C:\Users\abpau\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/10/07 15:59:32.479,C:\DEVPIRA Hallowen CodeFest\Tricks_or_Leaks\Principal.pas=C:\Users\abpau\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/07 15:59:46.943,C:\DEVPIRA Hallowen CodeFest\Tricks_or_Leaks\Tricks_or_Leaks.dproj=C:\Users\abpau\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
